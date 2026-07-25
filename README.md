@@ -56,4 +56,4 @@ This project presents an AI-powered interactive Sales Analytics Dashboard develo
 
 Aditya Yadav
 
-🔗LinkedIn:www.linkedin.com/in/aditya-yadav-140aa43a7
+🔗LinkedIn:www.linkedin.com/in/aditya-yadav-140aa43a7 
